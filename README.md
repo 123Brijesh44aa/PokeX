@@ -1,4 +1,5 @@
-# clean_architecture_by_flutter_mapp
+# Clean Architecture Flutter Application
+
 
 A new Flutter project.
 
